@@ -1,0 +1,23 @@
+.named {
+    background-color: turquoise;
+}
+
+.hex {
+    background-color: #6599ee;
+}
+
+.rgb {
+    background-color: rgb(243, 90, 194);
+}
+
+.rgba {
+    background-color: rgba(89, 252, 92, 0.5);
+}
+.with-opacity {
+    background-color: rgb(89, 252, 92);
+    opacity: 0.5;
+}
+
+.with-rgba {
+    background-color: rgba(89, 252, 92, 0.5);
+}
