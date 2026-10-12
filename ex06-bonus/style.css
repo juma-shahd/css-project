@@ -1,0 +1,16 @@
+.card {
+    width: 250px;
+    border: 1px solid black;
+    transition: transform 0.3s;
+}
+
+.btn {
+    transition: transform 0.3s;
+}
+.card:hover {
+    transform: translateY(-8px) scale(1.05);
+}
+
+.btn:hover {
+    transform: translateY(-8px) scale(1.05);
+}
